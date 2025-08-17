@@ -13,7 +13,7 @@ It ensures no double bookings, calculates parking costs, and provides APIs for a
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/parking-lot-reservation.git
+   https://github.com/Sruthii02/parking-lot-reservation.git
    cd parking-lot-reservation
 
 <!-- 1. Create MySQL database:
